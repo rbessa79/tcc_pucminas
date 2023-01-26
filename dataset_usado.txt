@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/manjeetsingh/retaildataset?resource=download&select=stores+data-set.csv
